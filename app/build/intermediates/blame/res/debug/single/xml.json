@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

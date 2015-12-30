@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_item.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_item.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_layout.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_layout.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_icon.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_icon.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_separator.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\button_separator.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__popup_menu_item_layout.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\answer.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\answer.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sherlock_spinner_dropdown_item.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\sherlock_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_checkbox.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__simple_dropdown_hint.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\button.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\question_new.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\question_new.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_tab_bar_view.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_tab_bar_view.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_login.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\act_login.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_title_item.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_title_item.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_view.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_view.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slide.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\slide.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\buttons.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\buttons.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comment.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\comment.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_menu_item_layout.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_menu_item_layout.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple_overlay_action_mode.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__list_menu_item_radio.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__list_menu_item_radio.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rotate.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\rotate.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_bar_home.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_bar_home.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_simple.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_simple.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\more_item.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainsssss.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\mainsssss.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_bar.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_bar.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slidingmenumain.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.jeremyfeinstein.slidingmenu\\library\\1.3\\res\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__search_dropdown_item_icons_2line.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\post_form.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\post_form.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__screen_action_bar_overlay.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__screen_action_bar_overlay.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stream_item.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\stream_item.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\help.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\help.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__activity_chooser_view_list_item.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abs__action_mode_close_item.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\layout\\abs__action_mode_close_item.xml"
+    }
+]

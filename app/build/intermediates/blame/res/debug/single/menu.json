@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stream_longclick.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\menu\\stream_longclick.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stream_longclick_admin.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\menu\\stream_longclick_admin.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

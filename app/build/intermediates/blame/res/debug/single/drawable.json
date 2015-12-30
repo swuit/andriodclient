@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\votedown.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\votedown.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_back.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\button_back.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\selected.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_refresh.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\ic_menu_refresh.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\votedup.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\votedup.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_icon.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\actionbar_icon.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_clear.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_clear.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selecting.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\selecting.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_medium_holo.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_medium_holo.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\starred.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\starred.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__activated_background_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voterup.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\voterup.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\starrer.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\starrer.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\votingup.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\votingup.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__tab_indicator_ab_holo.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divider.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\votingdown.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\votingdown.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\selector.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__search_dropdown_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__search_dropdown_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voteup.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\voteup.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__item_background_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__ic_menu_moreoverflow_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__progress_horizontal_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__progress_horizontal_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\star.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\star.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__list_selector_background_transition_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_back.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\login_back.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voterdown.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\voterdown.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__spinner_ab_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\voteddown.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\voteddown.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__btn_cab_done_holo_light.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__btn_cab_done_holo_light.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\starring.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\starring.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_back.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\actionbar_back.xml"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\select.png",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\src\\main\\res\\drawable\\select.png"
+    },
+    {
+        "merged": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abs__textfield_searchview_right_holo_dark.xml",
+        "source": "G:\\workstation\\qaoverflow-master\\app\\build\\intermediates\\exploded-aar\\com.actionbarsherlock\\actionbarsherlock\\4.4.0\\res\\drawable\\abs__textfield_searchview_right_holo_dark.xml"
+    }
+]
